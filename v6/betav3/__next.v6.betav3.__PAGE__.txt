@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:"/popit-pages/_next/static/chunks/42onvq6nokjl2.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:"/popit-pages/_next/static/chunks/3fs_izgk_9bpd.js"
+9:I[80433,["$2","$8"],"default"]
+f:"/popit-pages/_next/static/chunks/0j4tbg4ud9-g1.js"
+10:"/popit-pages/_next/static/chunks/15wbnx67hvla4.js"
+11:I[38035,["$2","$8","$f","$10"],"default"]
+12:I[22016,["$2","$8","$f","$10"],""]
+13:I[97367,["$2"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$2"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2"],"$19"]
+:HL["/popit-pages/_next/static/chunks/0-4zmabhwy-ts.css","style"]
+:HL["/popit-pages/_next/static/chunks/1lyweke_pv0-l.css","style"]
+:HL["/popit-pages/_next/static/chunks/0l3t-ug2jcnsh.css","style"]
+:HL["/popit-pages/_next/static/chunks/1nukm0fy01bhs.css","style"]
+:HL["/popit-pages/_next/static/chunks/42qnvuo1fel_9.css","style"]
+6:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","main",null,{"className":"beta6 beta3","children":["$","$L11",null,{}]}],["$","footer",null,{"className":"foot6 on-dark","children":[["$","span",null,{"children":["© ",2026," POPIT"]}],["$","nav",null,{"aria-label":"More","children":[["$","$L12",null,{"href":"/v6/betav3","children":"Beta"}],["$","$L12",null,{"href":"/v6/betav2","children":"The loop"}],["$","$L12",null,{"href":"/v6/demo","children":"Classic demo"}],["$","$L12",null,{"href":"/v5/workbench","children":"Workbench"}],["$","a",null,{"href":"mailto:hey@popit.app","children":"hey@popit.app"}]]}]]}]],[["$","link","0",{"rel":"stylesheet","href":"/popit-pages/_next/static/chunks/0l3t-ug2jcnsh.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/popit-pages/_next/static/chunks/1nukm0fy01bhs.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/popit-pages/_next/static/chunks/42qnvuo1fel_9.css","precedence":"next"}],["$","script","script-0",{"src":"/popit-pages/_next/static/chunks/0j4tbg4ud9-g1.js","async":true}],["$","script","script-1",{"src":"/popit-pages/_next/static/chunks/15wbnx67hvla4.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$6"}}]]
+b:[["children",{"s":"betav3","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@c","v":"$d","s":"$6"},"c":"$Qe"}]]
+7:[["children",{"s":"v6","h":96,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/popit-pages/_next/static/chunks/1lyweke_pv0-l.css","precedence":"next"}],["$","script","script-0",{"src":"/popit-pages/_next/static/chunks/3fs_izgk_9bpd.js","async":true}]],["$","div",null,{"className":"v6 _5GND8q_variable d-GgHa_variable","children":[["$","$L9",null,{}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}]]}],"p":"$@a","v":null,"s":"$6"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/popit-pages/_next/static/chunks/0-4zmabhwy-ts.css","precedence":"next"}],["$","script","script-0",{"src":"/popit-pages/_next/static/chunks/42onvq6nokjl2.js","async":true}]],["$","html",null,{"lang":"en","className":"hA4QLW_variable OWUe0q_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#F7F5FB"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Try the beta — POPIT"}],["$","meta","1",{"name":"description","content":"The beta for haircare creators: pop your reel and read what the agents make of it."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$6"}},"a":"$@1c","u":"$@1d","b":"CDIzmMmG0lSORuqR0w7K3"}
+15:null
+6:300
+1d:true
+6:C
+1c:0
+c:"$undefined"
+a:"$undefined"
+5:"$undefined"
+1b:"$undefined"
+16:"$undefined"
