@@ -1,1 +1,1 @@
-{"demos": [], "skipped_test_only": ["vid_000006", "vid_000020", "vid_000018"], "frames": 0}
+{"demos": ["vid_000006", "vid_000020", "vid_000018"], "skipped_test_only": [], "frames": 15}
