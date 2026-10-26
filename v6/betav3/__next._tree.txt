@@ -1,5 +1,5 @@
 :HL["/popit-pages/_next/static/chunks/0-4zmabhwy-ts.css","style"]
-:HL["/popit-pages/_next/static/chunks/1lyweke_pv0-l.css","style"]
+:HL["/popit-pages/_next/static/chunks/2e84c92gwi_a5.css","style"]
 :HL["/popit-pages/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/popit-pages/_next/static/media/8e6fa89aa22d24ec-s.p.2o7m9ogm38dql.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/popit-pages/_next/static/media/9e9f04e3c37952ab-s.p.0pan85mumqyf3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -13,4 +13,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"betav3","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"v6","h":96,"c":"$Q2"}]]
-0:{"b":"JS4i60fZbYqs2ux4jpCCM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"as16quiBjjGKV7FQv3VKP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
